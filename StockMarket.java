@@ -1,3 +1,5 @@
+package BasicStockTradingAccount;
+
 import java.util.*;
 
 public class StockMarket {
